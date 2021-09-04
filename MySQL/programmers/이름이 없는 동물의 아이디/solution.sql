@@ -1,0 +1,4 @@
+Select ANIMAL_ID
+From ANIMAL_INS
+Where NAME is NULL
+Order by ANIMAL_ID
